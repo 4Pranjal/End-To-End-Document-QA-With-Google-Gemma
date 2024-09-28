@@ -1,4 +1,4 @@
-# End-To-End-Document-QA-With-Google-Gemma
+# End To End Document QA With Google Gemma
  
 This repository contains a Streamlit-based application that allows users to interact with PDF files by asking questions. It leverages Google Gemini models for language processing, embeddings, and question-answering. The application uses Google Generative AI and FAISS for efficient document search and retrieval.
 
