@@ -52,6 +52,8 @@ For Q&A Chatbot:
    ```bash
    streamlit run app.py
    ```
+![Capture](https://github.com/user-attachments/assets/7e1c9b7c-dd96-4a9c-8a96-fad435fe9114)
+
 ## Contributors
 
 - [Pranjal Jain](https://github.com/4Pranjal)
