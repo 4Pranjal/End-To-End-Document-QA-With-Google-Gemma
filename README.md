@@ -20,7 +20,7 @@ To run this application, follow these steps:
 
 ### 1. Clone the repository
 ```bash 
-git clone https://github.com/4Pranjal/LLM-AI-Meetup
+git clone https://github.com/4Pranjal/End-To-End-Document-QA-With-Google-Gemma.git
 ```
 ## 2. Set up a Python virtual environment 
    ```bash
