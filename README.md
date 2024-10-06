@@ -40,6 +40,8 @@ Install the required packages:
 ## 4. Set up environment variables
 Create a .env file in the root directory of your project.
 Inside this file, set your Google API key:
+To get the API key sign with google account and create a new key from the project.
+https://ai.google.dev/aistudio
    ```bash
 GOOGLE_API_KEY=your_google_api_key_here
    ```
